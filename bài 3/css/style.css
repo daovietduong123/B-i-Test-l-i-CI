@@ -1,0 +1,15 @@
+.luckyText{
+    font-size: x-large;
+    background-color: red;
+    width: 30%;
+    margin: auto;
+  }
+  div {
+    text-align: center;
+    margin: auto;
+  }
+  #btn {
+    background-color: green;
+    color: bisque;
+    width: 8%;
+  }
